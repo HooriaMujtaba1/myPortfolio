@@ -36,5 +36,5 @@ cd myPortfolio
 npm install
 
 npm run dev
----
-📸 Screenshots
+
+## 📸 Screenshots
