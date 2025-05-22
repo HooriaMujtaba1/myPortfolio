@@ -28,7 +28,6 @@ Welcome to my **personal portfolio website** built using **React**, **Tailwind C
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/HooriaMujtaba1/myPortfolio.git
 
 cd myPortfolio
