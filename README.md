@@ -24,22 +24,6 @@ Welcome to my **personal portfolio website** built using **React**, **Tailwind C
 
 ---
 
-## 📂 Project Structure
-
-myPortfolio/
-├── public/
-├── src/
-│ ├── components/
-│ ├── pages/
-│ └── App.jsx
-├── index.html
-├── tailwind.config.js
-├── postcss.config.cjs
-├── vite.config.js
-└── README.md
-
----
-
 ## 📦 Installation
 
 1. Clone the repository:
