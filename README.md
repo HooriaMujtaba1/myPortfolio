@@ -1,5 +1,5 @@
 # 💼 Hooria Mujtaba Portfolio
-![Screenshot (418)](https://github.com/user-attachments/assets/735c4938-c26a-4de6-aa33-3e9e7466ccd2)
+![Screenshot (459)](https://github.com/user-attachments/assets/a5b9e36d-6b3e-40c5-bfb1-266130ca02ea)
 
 Welcome to my **personal portfolio website** built using **React**, **Tailwind CSS**, and **Vite**. This project is designed to showcase my skills, projects, and professional background.
 
