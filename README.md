@@ -45,9 +45,9 @@ Welcome to my **personal portfolio website** built using **React**, **Tailwind C
 
 1. Clone the repository:
 
-  git clone https://github.com/HooriaMujtaba1/myPortfolio.git
+ > git clone https://github.com/HooriaMujtaba1/myPortfolio.git
 
-  cd myPortfolio
+ > cd myPortfolio
 
     npm install
 
