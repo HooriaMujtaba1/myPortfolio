@@ -61,9 +61,13 @@ Update src/components/About.jsx to change your name, skills, and description.
 Replace profile2.png with your own image inside src/assets/.
 
 Modify Tailwind styles directly in components or index.css.
+
 ---
 
 ## 🙋‍♀️ Author
+
 Hooria Mujtaba
+
 🔗 LinkedIn
+
 🔗 GitHub
