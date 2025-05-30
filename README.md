@@ -1,4 +1,5 @@
 # 💼 myPortfolio
+![Screenshot (418)](https://github.com/user-attachments/assets/735c4938-c26a-4de6-aa33-3e9e7466ccd2)
 
 Welcome to my **personal portfolio website** built using **React**, **Tailwind CSS**, and **Vite**. This project is designed to showcase my skills, projects, and professional background.
 
@@ -32,9 +33,8 @@ git clone https://github.com/HooriaMujtaba1/myPortfolio.git
 
 cd myPortfolio
 
-npm install
+    npm install
 
-npm run dev
+    npm run dev
 
-## 📸 Screenshots
-![Uploading Screenshot (418).png…]()
+
