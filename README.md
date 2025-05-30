@@ -6,7 +6,7 @@ Welcome to my **personal portfolio website** built using **React**, **Tailwind C
 ---
 ## 🔗 Live Demo
 
-> 🚀 [Visit Portfolio](https://hooriamujtaba1.github.io/myPortfolio/)
+> 🚀 [Hooria Mujtaba Portfolio](https://hooriamujtaba1.github.io/myPortfolio/)
 ---
 
 ## 🛠️ Built With
@@ -45,9 +45,9 @@ Welcome to my **personal portfolio website** built using **React**, **Tailwind C
 
 1. Clone the repository:
 
-git clone https://github.com/HooriaMujtaba1/myPortfolio.git
+ git clone https://github.com/HooriaMujtaba1/myPortfolio.git
 
-cd myPortfolio
+ cd myPortfolio
 
     npm install
 
@@ -56,11 +56,11 @@ cd myPortfolio
 
  ## 🧪 Customization
  
-Update src/components/About.jsx to change your name, skills, and description.
+ Update src/components/About.jsx to change your name, skills, and description.
 
-Replace profile2.png with your own image inside src/assets/.
+ Replace profile2.png with your own image inside src/assets/.
 
-Modify Tailwind styles directly in components or index.css.
+ Modify Tailwind styles directly in components or index.css.
 
 ---
 
