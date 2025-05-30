@@ -68,6 +68,6 @@ Welcome to my **personal portfolio website** built using **React**, **Tailwind C
 
 Hooria Mujtaba
 
-🔗 LinkedIn
+🔗 [LinkedIn](https://github.com/HooriaMujtaba1)
 
-🔗 GitHub
+🔗 [GitHub](https://github.com/HooriaMujtaba1)
